@@ -106,6 +106,28 @@ int main()
 	}
 	*/
 	//BAEKJOON_4344
+	int test, n, sum, cnt;
+	double avg;
+	int* arr = NULL;
 
+	cin >> test;
+	for (int i = 0; i < test; i++)
+	{
+		cin >> n;
+		arr = new int[n];
+		sum = cnt = 0;
+		for (int j = 0; j < n; j++)
+		{
+			cin >> arr[j];
+			sum += arr[j];
+		}
+		avg = (double)sum / n;
+		for (int j = 0; j < n; j++)
+			if (arr[j] > avg)
+				cnt++;
+		cout << fixed;
+		cout.precision(3);
+		cout << (double)cnt / n * 100 << "%\n";
+	}
 	return 0;
 }

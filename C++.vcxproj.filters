@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BAEKJOON_1ARR.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="BAEKJOON_IF.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -31,6 +28,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="BAEKJOON_OPERATION.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON_ARR.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON_FUNC.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
