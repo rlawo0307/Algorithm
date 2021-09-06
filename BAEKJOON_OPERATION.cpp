@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+	/*
 	int a, b;
 
 	//BAEKJOON_1000
@@ -36,6 +37,14 @@ int main()
 
 	cin >> A >> B >> C;
 	cout << (A + B) % C << "\n" << ((A % C) + (B % C)) % C << "\n" << (A * B) % C << "\n" << ((A % C) * (B % C)) % C << endl;
+	*/
+	//BAEKJOON_2588
+	int a, b;
 
+	cin >> a >> b;
+	cout << a * (b % 10) << "\n"
+		<< a * (b % 100 / 10) << "\n"
+		<< a * (b / 100) << "\n"
+		<< a * b << endl;
 	return 0;
 }
