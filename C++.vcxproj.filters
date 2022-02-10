@@ -69,5 +69,17 @@
     <ClCompile Include="PRO_정수제곱근판별.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PRO_정수내림차순으로배치하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PRO_자연수뒤집어배열로만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PRO_자릿수더하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PRO_이상한문자만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
