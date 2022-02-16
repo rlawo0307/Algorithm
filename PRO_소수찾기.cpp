@@ -21,9 +21,3 @@ int solution(int n) {
 
     return answer;
 }
-
-int main()
-{
-    int n = 10;
-    solution(n);
-}

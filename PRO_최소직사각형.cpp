@@ -1,9 +1,9 @@
 #include <string>
-#include <iostream>
+#include <vector>
 
 using namespace std;
 
-int solution(string dartResult) {
+int solution(vector<vector<int>> sizes) {
     int answer = 0;
     return answer;
 }

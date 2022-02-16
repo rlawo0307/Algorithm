@@ -132,5 +132,11 @@
     <ClCompile Include="PRO_나머지가1이되는수찾기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PRO_최소직사각형.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PRO_2016년.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
