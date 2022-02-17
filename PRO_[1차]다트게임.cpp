@@ -1,3 +1,4 @@
+/*
 #include <string>
 #include <iostream>
 
@@ -7,3 +8,4 @@ int solution(string dartResult) {
     int answer = 0;
     return answer;
 }
+*/
