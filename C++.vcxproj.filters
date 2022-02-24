@@ -156,5 +156,17 @@
     <ClCompile Include="PRO_폰켓몬.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PRO_체육복.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PRO_K번째수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PRO_모의고사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PRO_양궁대회.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
